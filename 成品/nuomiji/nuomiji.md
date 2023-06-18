@@ -1,3 +1,4 @@
+![image](https://github.com/alexwan316/Food/blob/main/%E6%88%90%E5%93%81/nuomiji/nuomiji.jpeg)
 1.长糯米用水浸泡4个小时。糯米泡水之后会胀大，所以一定要在锅中预留空间。
 
 2.将莲子，薏仁米放入蒸锅，碗中加入一点蜂蜜。
