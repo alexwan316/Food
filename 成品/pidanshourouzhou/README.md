@@ -1,6 +1,6 @@
 #pidanshourouzhou
 
-![image](https://github.com/alexwan316/Food/blob/main/%E6%88%90%E5%93%81/baiqieji/baiqieji.jpeg)
+![image](https://github.com/alexwan316/Food/blob/main/%E6%88%90%E5%93%81/pidanshourouzhou/pidanshourouzhou.jpeg)
 
 1.将粳米淘洗干净，用盐、油和少许水将米浸泡，腌制30分钟
 
