@@ -1,5 +1,7 @@
 #JIANJIAO
 
+![image](https://github.com/alexwan316/Food/blob/main/%E6%88%90%E5%93%81/jianjiao/JIANJIAO.jpeg)
+
 1.锅里擦洗干净后，倒入少许油。小火烧热一下。不用太热关火。摆入速冻饺子，保证每只都能接触到油面
 
 2.开中火，油煎，注意不用翻动。大概三分钟后加入凉白开。
