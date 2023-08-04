@@ -1,3 +1,5 @@
+# baiqieji
+
 ![image](https://github.com/alexwan316/Food/blob/main/%E6%88%90%E5%93%81/baiqieji/baiqieji.jpeg)
 
 第一步：将三黄鸡的腹部切开，掏出鸡内脏后将鸡爪子塞到鸡肚子里面。葱切段、姜切成片待用。另外准备一部分的葱姜切末留着一会儿拌调料汁的时候用。
