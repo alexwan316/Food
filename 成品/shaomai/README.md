@@ -1,3 +1,7 @@
+#SHAOMAI
+
+![image](https://github.com/alexwan316/Food/blob/main/%E6%88%90%E5%93%81/shaomai/shaomai.jpeg)
+
 1.糯米用凉水浸泡2-3小时，加适量水上锅隔水蒸成软硬适中的糯米饭。
 
 2.蒸糯米的同时，开始制作烧麦皮。沸水慢慢加入面粉中，加边加搅拌。
