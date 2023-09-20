@@ -1017,7 +1017,7 @@
                     //    avatar_ID = avatar_ID + '0'
                     //}
                     if ('主料' in info[name]) {
-                        $('#info').append('<p>' + '<img src="./photos/' + name + '.jpeg"  style="width:200px;height:200px"/>' + '</p>');
+                        $('#info').append('<p>' + '<img src="https://raw.githubusercontent.com/alexwan316/Food/tree/main/photos' + name + '.jpeg"  style="width:200px;height:200px"/>' + '</p>');
                     }
                 }
 
@@ -1208,7 +1208,7 @@
                     //}
 
                     if ('主料' in info[name]) {
-                        $('#info').append('<p>' + '<img src="./photos/' + name + '.jpeg" style="height:200px;width:200px" />' + '</p>');
+                        $('#info').append('<p>' + '<img src="https://raw.githubusercontent.com/alexwan316/Food/tree/main/photos' + name + '.jpeg" style="height:200px;width:200px" />' + '</p>');
                     }
 
                 }
@@ -1437,7 +1437,7 @@
         // 结点信息框
         var info;
 
-        d3.json("./yuecai.json", function (error, data) {
+        d3.json("https://raw.githubusercontent.com/alexwan316/Food/main/yuecai.json", function (error, data) {
             info = data;
         })
 
